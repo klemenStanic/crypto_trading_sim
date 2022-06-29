@@ -7,9 +7,9 @@ A simple crypto trading simulator, which exposes a quart REST api and allows fet
 - Activate virtualenv
   ```source venv/bin/activate```
 - Install neccessary packages
-  ```pip3 install -r requirements.txt```
+  ```pip3.10 install -r requirements.txt```
 - Run script
-  ```python3 start.py```
+  ```python3.10 start.py```
 
 Your Quart server is now running on ```http://localhost:3000```.
 
