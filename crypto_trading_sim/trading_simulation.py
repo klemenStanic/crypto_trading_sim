@@ -1,7 +1,4 @@
 from abc import ABC, abstractmethod
-from re import I
-from tracemalloc import start
-
 from data import Candle
 
 
